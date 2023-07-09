@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Minsu Jung
-### Hi there 👋 </br>I'm Minsu Jung
+### Hi there 👋 </br>I'm Fullstack developer
 
 ## 💻 My Stack
 <img alt="NestJS" src ="https://img.shields.io/badge/nestjs-ea2845.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3776AB.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="NodeJS" src ="https://img.shields.io/badge/NodeJS-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="PHP" src ="https://img.shields.io/badge/PHP-7a86b8.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-E34F26.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-0073ec.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
